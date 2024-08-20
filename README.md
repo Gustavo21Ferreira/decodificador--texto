@@ -60,24 +60,3 @@ O codificador de texto é projetado para trabalhar exclusivamente com letras min
 
 * Colar e Descriptografar: Usuários podem colar texto no campo que já foi criptografado anteriormente. O sistema aplica as mesmas regras de filtragem para garantir que o texto colado esteja em conformidade com os requisitos, permitindo uma descriptografia correta.
 
-## 📲 Acesso à Aplicação
-
-* Clique no seguinte link da aplicação para abrir a aplicação no seu navegador: <a href="https://text-decoder-psi.vercel.app/">Text Decoder</a>
-
-* Inserção de Texto: No campo de entrada, digite o texto que deseja criptografar ou descriptografar. Certifique-se de usar apenas letras minúsculas, números e espaços, pois caracteres especiais e acentos serão removidos automaticamente.
-  
-* Criptografar Texto: Clique no botão Encrypt (Criptografar). O texto inserido será criptografado e o resultado será exibido no campo de saída. 
-
-* Descriptografar Texto: Se você tiver um texto criptografado, cole-o no campo de entrada e clique no botão Decrypt (Descriptografar). O texto será descriptografado e o resultado será mostrado no campo de saída. 
-
-* Copiar Texto: Após a criptografia ou descriptografia, clique no botão Copy (Copiar) para copiar o texto do campo de saída para a área de transferência. 
-
-* Verificação e Ajustes: Verifique o texto no campo de saída. Caso o texto não esteja no formato esperado, ajuste o texto no campo de entrada e repita o processo de criptografia ou descriptografia conforme necessário.
-
-
-
-
-
-
-
-
