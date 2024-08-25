@@ -60,3 +60,5 @@ O codificador de texto é projetado para trabalhar exclusivamente com letras min
 
 * Colar e Descriptografar: Usuários podem colar texto no campo que já foi criptografado anteriormente. O sistema aplica as mesmas regras de filtragem para garantir que o texto colado esteja em conformidade com os requisitos, permitindo uma descriptografia correta.
 
+Deploy: https://gustavo21ferreira.github.io/decodificador--texto/
+
