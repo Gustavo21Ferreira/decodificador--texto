@@ -1,3 +1,6 @@
+![Uploading Decodificador de texto.PNG…]()
+
+
 # Challenge Decodificador de Texto - ONE | Alura
 O projeto envolve a criação de um decodificador de texto,  desenvolvido como parte de um desafio do programa Oracle Next Education em colaboração com a Alura. O projeto visa criar uma aplicação capaz de criptografar e descriptografar mensagens de texto, oferecendo uma oportunidade prática para aplicar conhecimentos técnicos em uma situação próxima à realidade profissional.
 
